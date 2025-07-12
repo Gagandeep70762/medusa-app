@@ -1,0 +1,4 @@
+"scripts": {
+  ...
+  "predeploy": "medusa db:migrate"
+}
